@@ -11,5 +11,5 @@ To make the most out of these tutorials, you should have a basic understanding o
 
 # Contributing guidelines
 Use wines_SPA.csv dataset to resolve the issues.
-**Classification** : For classification tasks use 'body' as the target variable in the dataset.
+**Classification** : For classification tasks use 'type' as the target variable in the dataset.
 
